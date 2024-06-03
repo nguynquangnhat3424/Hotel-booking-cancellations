@@ -9,8 +9,6 @@ This project aims to develop a robust machine learning classification model usin
 
 **Methodology**
 
-The project employs a systematic approach:
-
 * Data Acquisition:
 
 Historical hotel booking data is acquired, ideally containing relevant features such as guest demographics, booking details (dates, lead time, price, cancellation policy), and cancellation status.
