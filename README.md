@@ -1,4 +1,4 @@
-# Hotel-booking-cancellations
+# Hotel booking cancellations
 **Objective**
 
 This project aims to develop a robust machine learning classification model using Python to predict hotel booking cancellations. This proactive approach empowers businesses in the hospitality industry to minimize revenue losses by:
@@ -40,13 +40,4 @@ Hyperparameter tuning is explored to optimize model performance.
 Over 70% accuracy in predicting hotel booking cancellations.
 A user-friendly and interpretable model that allows businesses to understand the key factors driving cancellation risks.
 Actionable insights to improve operational efficiency by proactively preventing cancellations and maximizing revenue.
-Skills Demonstrated
 
-**The project will showcase proficiency in the following areas:**
-
-* Python programming
-* Data preprocessing (EDA, data cleaning, discretization)
-* Data analysis
-* Pattern mining techniques (FP-Growth or similar)
-* Classification machine learning models (SVM, Decision Tree, kNN, Naive Bayes)
-* Model evaluation and refinement
