@@ -11,14 +11,18 @@ This project aims to develop a robust machine learning classification model usin
 
 The project employs a systematic approach:
 
-Data Acquisition:
+* Data Acquisition:
+
 Historical hotel booking data is acquired, ideally containing relevant features such as guest demographics, booking details (dates, lead time, price, cancellation policy), and cancellation status.
-Data Preprocessing:
-Exploratory Data Analysis (EDA) is conducted to understand the data's characteristics, identify missing values, and explore relationships between features.
+
+* Data Preprocessing:
+* Exploratory Data Analysis (EDA) is conducted to understand the data's characteristics, identify missing values, and explore relationships between features.
 Data cleaning techniques address inconsistencies, missing values, or outliers that might hinder model performance.
 Feature engineering may be applied to create new informative features from existing ones (e.g., combining lead time and cancellation policy to create a risk score).
 Data discretization (e.g., binning continuous features) might be necessary depending on the chosen classification algorithm.
+
 Frequent Pattern Mining:
+
 The FP-Growth algorithm or similar techniques are employed to uncover frequent patterns within the historical data, particularly those associated with cancellations.
 These patterns provide insights into guest behavior and booking characteristics that often lead to cancellations.
 Machine Learning Model Selection and Training:
@@ -30,18 +34,18 @@ Hyperparameter tuning is explored to optimize model performance.
 If necessary, feature selection techniques might be applied to identify the most influential factors for cancellation prediction.
 Expected Outcome
 
-The project aims to achieve:
+**The project aims to achieve:**
 
 Over 70% accuracy in predicting hotel booking cancellations.
 A user-friendly and interpretable model that allows businesses to understand the key factors driving cancellation risks.
 Actionable insights to improve operational efficiency by proactively preventing cancellations and maximizing revenue.
 Skills Demonstrated
 
-The project will showcase proficiency in the following areas:
+**The project will showcase proficiency in the following areas:**
 
-Python programming
-Data preprocessing (EDA, data cleaning, discretization)
-Data analysis
-Pattern mining techniques (FP-Growth or similar)
-Classification machine learning models (SVM, Decision Tree, kNN, Naive Bayes)
-Model evaluation and refinement
+* Python programming
+* Data preprocessing (EDA, data cleaning, discretization)
+* Data analysis
+* Pattern mining techniques (FP-Growth or similar)
+* Classification machine learning models (SVM, Decision Tree, kNN, Naive Bayes)
+* Model evaluation and refinement
